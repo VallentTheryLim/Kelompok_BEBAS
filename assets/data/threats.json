@@ -1,0 +1,21 @@
+[
+  { "type": "Plastic Pollution", "severity": "High", "description": "Plastic waste harming marine life." },
+  { "type": "Overfishing", "severity": "High", "description": "Depletes fish populations and damages ecosystems." },
+  { "type": "Ghost Nets", "severity": "High", "description": "Lost fishing gear entangles turtles, mammals, and seabirds." },
+  { "type": "Bycatch", "severity": "High", "description": "Non-target species caught and killed in fisheries." },
+  { "type": "Coral Bleaching", "severity": "High", "description": "Heat stress causes corals to expel symbionts and die." },
+  { "type": "Ocean Acidification", "severity": "High", "description": "CO₂ lowers pH, weakening shells and coral skeletons." },
+  { "type": "Oil Spills", "severity": "High", "description": "Toxic hydrocarbons coat habitats and wildlife." },
+  { "type": "Eutrophication", "severity": "High", "description": "Nutrient runoff triggers algal blooms and dead zones." },
+  { "type": "Marine Noise Pollution", "severity": "Medium", "description": "Ship noise disrupts whale and dolphin communication." },
+  { "type": "Microplastics", "severity": "High", "description": "Ingested particles accumulate through food webs." },
+  { "type": "Coastal Development", "severity": "Medium", "description": "Habitat loss from dredging, tourism, and urbanization." },
+  { "type": "Invasive Species", "severity": "Medium", "description": "Non-native species outcompete local fauna and flora." },
+  { "type": "Illegal, Unreported, and Unregulated Fishing", "severity": "High", "description": "Undermines quotas and conservation measures." },
+  { "type": "Destructive Fishing (Blast/Poison)", "severity": "High", "description": "Instant habitat damage, especially to coral reefs." },
+  { "type": "Mercury & Heavy Metal Contamination", "severity": "Medium", "description": "Bioaccumulates in top predators, risks to humans." },
+  { "type": "Ship Strikes", "severity": "Medium", "description": "Vessel collisions injure or kill large marine animals." },
+  { "type": "Sea Level Rise", "severity": "Medium", "description": "Floods coastal nurseries like mangroves and marshes." },
+  { "type": "tes", "severity": "easy", "description": "testing." }
+  
+]

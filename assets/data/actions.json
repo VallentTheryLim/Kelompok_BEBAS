@@ -1,0 +1,16 @@
+[
+  { "title": "Reduce plastic use", "impact": "High", "steps": "Use reusable bags, bottles, and containers." },
+  { "title": "Support reef-safe products", "impact": "Medium", "steps": "Choose reef-safe sunscreen and detergents." },
+  { "title": "Participate in coastal cleanups", "impact": "High", "steps": "Join local cleanup events or organize a small group effort." },
+  { "title": "Dispose fishing gear responsibly", "impact": "High", "steps": "Recycle lines and nets; never leave gear in the water." },
+  { "title": "Reduce seafood footprint", "impact": "High", "steps": "Buy sustainably certified seafood (MSC/ASC) or eat less seafood." },
+  { "title": "Cut microfibers from laundry", "impact": "Medium", "steps": "Use a microfiber-catching bag/filter and wash with cold, full loads." },
+  { "title": "Conserve water at home", "impact": "Medium", "steps": "Fix leaks, install low-flow fixtures, and shorten showers." },
+  { "title": "Choose eco-friendly transport", "impact": "Medium", "steps": "Walk, cycle, or use public transit to cut coastal air and water pollution." },
+  { "title": "Plant mangroves or native vegetation", "impact": "High", "steps": "Support or volunteer in local habitat restoration projects." },
+  { "title": "Avoid single-use wet wipes", "impact": "Medium", "steps": "Use reusable cloths; never flush wipes down the toilet." },
+  { "title": "Support marine conservation groups", "impact": "Medium", "steps": "Donate, volunteer, or share campaigns that protect oceans." },
+  { "title": "Use phosphate-free products", "impact": "Medium", "steps": "Select detergents and dish soaps labeled low- or no-phosphate." },
+  { "title": "Report wildlife in distress", "impact": "High", "steps": "Call local marine rescue hotlines and follow their guidance." },
+  { "title": "Reduce light pollution near coasts", "impact": "Low", "steps": "Use shielded outdoor lights and turn off unnecessary lighting." }
+]

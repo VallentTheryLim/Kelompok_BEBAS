@@ -1,0 +1,16 @@
+[
+  { "name": "Green Sea Turtle", "latin": "Chelonia mydas", "status": "Endangered" },
+  { "name": "Clownfish", "latin": "Amphiprioninae", "status": "Least Concern" },
+  { "name": "Hawksbill Turtle", "latin": "Eretmochelys imbricata", "status": "Critically Endangered" },
+  { "name": "Leatherback Turtle", "latin": "Dermochelys coriacea", "status": "Vulnerable" },
+  { "name": "Manta Ray (Giant)", "latin": "Mobula birostris", "status": "Vulnerable" },
+  { "name": "Whale Shark", "latin": "Rhincodon typus", "status": "Endangered" },
+  { "name": "Great White Shark", "latin": "Carcharodon carcharias", "status": "Vulnerable" },
+  { "name": "Blue Whale", "latin": "Balaenoptera musculus", "status": "Endangered" },
+  { "name": "Humpback Whale", "latin": "Megaptera novaeangliae", "status": "Least Concern" },
+  { "name": "Dugong", "latin": "Dugong dugon", "status": "Vulnerable" },
+  { "name": "Napoleon Wrasse", "latin": "Cheilinus undulatus", "status": "Endangered" },
+  { "name": "Sea Otter", "latin": "Enhydra lutris", "status": "Endangered" },
+  { "name": "Emperor Penguin", "latin": "Aptenodytes forsteri", "status": "Near Threatened" },
+  { "name": "Atlantic Bluefin Tuna", "latin": "Thunnus thynnus", "status": "Endangered" }
+]
